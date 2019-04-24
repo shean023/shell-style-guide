@@ -29,7 +29,7 @@ readonly TOP_DIR="/opt/myapp"
 
 COMMAND_ARGS="$*"
 ```
-
+test
 ### 函数名
 
 全部小写，单词间以下划线连接。
